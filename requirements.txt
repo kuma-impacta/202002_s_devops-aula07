@@ -1,0 +1,4 @@
+click==7.1.2
+click-default-group==1.2.2
+sqlite-utils==2.21
+tabulate==0.8.7
